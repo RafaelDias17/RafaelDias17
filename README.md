@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rafael
+- 👀 I’m interested in 
+- 🌱 I’m currently learning C#
