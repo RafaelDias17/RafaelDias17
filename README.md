@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Rafael
-- 👀 I’m interested in 
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
+- 
